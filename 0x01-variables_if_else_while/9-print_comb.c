@@ -14,8 +14,8 @@ putchar(digit);
 if (digit != '9')
 {
 putchar(',');
-}
 putchar(' ');
+}
 }
 putchar('\n');
 return (0);
