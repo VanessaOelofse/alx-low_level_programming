@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - Prints all combinations of two digits with comma  and space followed by new line
-* 
+*main - Prints combinations of two digits
+*
 *
 *Return: returns 0
 */
