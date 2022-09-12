@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - Combinations of three digits with, and space followed by new line
+*main - Combinations of three digits
 * 
 *
 *Return: returns 0
