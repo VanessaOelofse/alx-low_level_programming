@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,12 +6,16 @@
  *Return: Always 0
  */
 
-int _putchar(char *s);
+int main(void)
 {
-char *s="_putchar\n";
-while (*s)
-{
-putchar(*s++);
-}
-return 0;
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
