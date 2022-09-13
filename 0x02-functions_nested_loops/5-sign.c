@@ -3,11 +3,11 @@
 
 /**
  * print_sign - Prints the sign of a number
- * 
+ * @n if it is zero
  * Return: 0
  */
 
-int print_sign(int n);
+int print_sign(int n)
 {
 if (n > 0)
 {
