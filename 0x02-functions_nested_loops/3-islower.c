@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * _islower(int c) - Checks lower case
+ * _islower(int c) - Checks lower case of C
  *
- * Return: Always 0.
+ * Return: 1 if true else 0
  */
 
 int _islower(int c)
