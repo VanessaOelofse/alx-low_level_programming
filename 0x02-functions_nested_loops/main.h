@@ -4,4 +4,4 @@
  *Return: Always 0
  */
 
-int _putchar(char *S)
+int _putchar(char);
