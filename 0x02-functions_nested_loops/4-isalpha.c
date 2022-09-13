@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _islower - Checks if c is present
+ * _isalpha - Checks if c is present
  * @c: The character to print
  * Return: 1 if true else 0
  */
