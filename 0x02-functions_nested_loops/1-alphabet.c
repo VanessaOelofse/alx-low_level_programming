@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-void print_alphabet(void) // comment
+void print_alphabet(void) /** comment  */
 {
 int i;
 for (i = 'a'; i <= 'z'; i++)
