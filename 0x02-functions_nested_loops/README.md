@@ -1,0 +1,1 @@
+This handles projects inside functions and nested loops
