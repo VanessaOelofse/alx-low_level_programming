@@ -3,7 +3,6 @@
 /**
  * print_last_digit - Prints the last digit of a number
  * @r: Integer
- * @n: Integer
  * return : r
  */
 int print_last_digit(int n)
