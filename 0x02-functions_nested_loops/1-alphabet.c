@@ -8,7 +8,7 @@
  */
 void print_alphabet(void) // comment
 {
-char i;
+int i;
 for (i = 'a'; i <= 'z'; i++)
 {
 putchar(i);
