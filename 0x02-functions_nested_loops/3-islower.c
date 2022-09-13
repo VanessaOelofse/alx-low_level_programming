@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * _islower(int c) - Checks lower case of C
- *
+ * _islower (int c) - Checks lower case of C
+ * @c: The character to print
  * Return: 1 if true else 0
  */
 
