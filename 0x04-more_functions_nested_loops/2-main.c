@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * mul - multiplies integers
- * @a: int to be multiplied
- * @b: int to be multiplied
- * Return: the result
+ * main - check the code
+ *
+ * Return: Always 0.
  */
-int mul(int a, int b)
+int main(void)
 {
-int c;
-c = a * b;
-return (c);
+    printf("%d\n", mul(98, 1024));
+    printf("%d\n", mul(-402, 4096));
+    return (0);
 }
