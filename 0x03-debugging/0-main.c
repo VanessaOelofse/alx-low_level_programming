@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - 0-main.c Checks integer
+* main - 0-main.c Checks
 * Return: 0
 */
 int main(void)
