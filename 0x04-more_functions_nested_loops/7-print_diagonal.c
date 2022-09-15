@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_diagonal - prints diagonal stuff
+ * print_diagonal - prints diagonal line
  *
- * @n: integer to set diagonal
+ * @n: integer to set
  */
 void print_diagonal(int n)
 {
