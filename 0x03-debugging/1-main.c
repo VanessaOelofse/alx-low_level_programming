@@ -14,6 +14,9 @@ printf("Infinite loop incoming :(\n");
 i = 0;
 /**
 * Commenting out error code
+*/
+
+/**
 * while (i < 10)
 * {
 * putchar(i);
